@@ -1,0 +1,88 @@
+@media (max-width: 768px){
+  .c_logos .logos_wrapper {
+	  display: grid;
+	  grid-template-columns: auto;
+	}
+	.top_banner .owl-nav{right: 22%;}
+	.top_banner .b-content h1{font-size: 50px}
+	.banner .col-lg-8 img {
+      display: none;
+}
+.banner .bcontent h1 {
+  font-size: 40px;
+  font-weight: bold;
+  color: black;
+  margin-bottom: 32px;
+}
+.banner {
+  
+  padding: 30px 0;
+}
+.banner .owl-nav {
+  display: none;
+}
+.banner .owl-dots {
+  display: block;
+  align-items: center;
+  text-align: center;
+  margin-right: 80px;
+}
+.featured .col-lg-7 {
+  margin-bottom: 40px;
+  padding: 0;
+}
+.featured .img-fluid {
+  border-radius: 50%;
+  margin-top: 14px;
+  width: 120px;
+}
+.featured .f_item {
+  background-color: var(--bg-color);
+  padding: 42px 12px 0 44px;
+  position: relative;
+  width: 100%;
+  height: 300px;
+  min-height: 300px;
+  align-items: end;
+  align-content: center;
+  text-align: center;
+  
+  
+}
+footer form{
+	  margin-right: 140px;
+}
+footer .f_item form input[type="email"] {
+  padding: 15px;
+  width: 273px;
+  border: 1px solid red;
+  outline: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
